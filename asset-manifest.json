@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4102f029.css",
+    "main.js": "/static/js/main.c4f49de0.js",
+    "static/media/SFProText-Bold.ttf": "/static/media/SFProText-Bold.cbf9ad5262b20dde960a.ttf",
+    "static/media/SFProText-Semibold.ttf": "/static/media/SFProText-Semibold.1727aa16f0745ebd221a.ttf",
+    "static/media/SFProText-Regular.ttf": "/static/media/SFProText-Regular.cc7ed75809867295f613.ttf",
+    "index.html": "/index.html",
+    "main.4102f029.css.map": "/static/css/main.4102f029.css.map",
+    "main.c4f49de0.js.map": "/static/js/main.c4f49de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4102f029.css",
+    "static/js/main.c4f49de0.js"
+  ]
+}
